@@ -8,7 +8,7 @@
 <p align="center">
  
 ### Menu
- <img src="https://github.com/Aldi098/Encypt-2/blob/main/Screenshot_20211120_145856.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/Aldi098/Tampilan-Termux/blob/main/Screenshot_20211124_222151.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 > Tampilan belum di upload
